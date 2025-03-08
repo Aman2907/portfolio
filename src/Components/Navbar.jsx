@@ -58,7 +58,7 @@ export const NavBar = () => {
                             {/* Resume View & Download Buttons */}
                             <div className="resume-buttons">
                                 <button className='vvd' onClick={() => setShowModal(true)}>
-                                    <span>View Resume</span>
+                                    <span> View Resume </span>
                                 </button>
                                 <a href="/CV/aman.pdf" download="Aman_Sharma_Resume.pdf" className="resume-button">
                                     <button className='vvd'>
