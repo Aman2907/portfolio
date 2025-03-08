@@ -40,8 +40,7 @@ export const Experience = () => {
                       to deliver high-quality software.
                     </p> */} 
                     <ul>
-                      <li>Developed dynamic and responsive web applications for various clients using a full-stack approach, with profi-
-                        ciency in both front-end and back-end technologies.</li>
+                      <li>Developed dynamic and responsive web applications for various clients using a full-stack approach, with proficiency in both front-end and back-end technologies.</li>
                       <li>Demonstrated proficiency in front-end frameworks such as React.js and Redux to create engaging user experiences
                         and enhance client satisfaction.</li>
                       <li> Collaborated closely with clients to understand project requirements, provide technical expertise, and deliver
