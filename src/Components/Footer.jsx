@@ -3,7 +3,7 @@ import { MailchimpForm } from "./MailchimpForm";
 import logo from "../assets/img/Designer.png";
 import navIcon1 from "../assets/img/li.png";
 import navIcon2 from "../assets/img/git.png";
-import navIcon3 from "../assets/img/nav-icon3.svg";
+import navIcon3 from "../assets/img/twii.png";
 
 export const Footer = () => {
   return (
@@ -18,7 +18,7 @@ export const Footer = () => {
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/amansharma2907/"><img src={navIcon1} alt="Icon" /></a>
               <a href="https://github.com/Aman2907"><img src={navIcon2} alt="Icon" /></a>
-              <a href="#"><img src={navIcon3} alt="Icon" /></a>
+              <a href="https://x.com/AmanSha11506476"><img src={navIcon3} alt="Icon" /></a>
             </div>
             <p>Copyright 2025. All Rights Reserved</p>
           </Col>

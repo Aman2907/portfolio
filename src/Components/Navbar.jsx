@@ -2,20 +2,20 @@ import { useState, useEffect } from 'react';
 import logo from '../assets/img/Designer.png';
 import navIcon1 from '../assets/img/li.png';
 import navIcon2 from '../assets/img/git.png';
-import navIcon3 from '../assets/img/nav-icon3.svg';
+import navIcon3 from '../assets/img/twii.png';
 import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
+import Nav from 'react-bootstrap/Nav'; 
 import Navbar from 'react-bootstrap/Navbar';
-import Modal from 'react-bootstrap/Modal';
+import Modal from 'react-bootstrap/Modal';  
 import Button from 'react-bootstrap/Button';
-
+ 
 export const NavBar = () => {
     const [activeLink, setActiveLink] = useState('home');
     const [scrolled, setScrolled] = useState(false);
     const [showModal, setShowModal] = useState(false);
 
-    useEffect(() => {
-        const onScroll = () => {
+    useEffect(() => { 
+        const onScroll = () => { 
             setScrolled(window.scrollY > 50);
         };
         window.addEventListener("scroll", onScroll);
@@ -47,7 +47,7 @@ export const NavBar = () => {
                             <div className='social-icon'>
                                 <a href="https://www.linkedin.com/in/amansharma2907/"><img src={navIcon1} alt="" /></a>
                                 <a href="https://github.com/Aman2907"><img src={navIcon2} alt="" /></a>
-                                <a href="#"><img src={navIcon3} alt="" /></a>
+                                <a href="https://x.com/AmanSha11506476"><img src={navIcon3} alt="" /></a>
                             </div>
                             <button
                                 className='vvd'
