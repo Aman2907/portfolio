@@ -32,14 +32,15 @@ export const Experience = () => {
                   <div className="experience-item">
                     <h3> Full Stack Developer </h3>
                     <h4> Freelance </h4>
-                    <p> Duration: June 2023 - Nov 2024 </p>
-                    {/* <p>
-                      Worked as a Software Engineer at TCS, contributing to the design, development, 
-                      and maintenance of web applications. Responsible for implementing scalable 
-                      solutions, optimizing performance, and collaborating with cross-functional teams 
-                      to deliver high-quality software.
-                    </p> */} 
+                    <p> Duration: June 2023 - Mar 2025 </p>
+                    <p>
+                      Worked on the design, development, and maintenance of web applications, focusing on building scalable solutions, optimizing performance, and collaborating with cross-functional teams to deliver high-quality software.
+                    </p>
                     <ul>
+                      <li>Implemented BRE to automate loan approval processes and optimize rule-based decision-making for customer
+                        eligibility checks, improving efficiency by 30 %.</li>
+                      <li>Integrated BRE with a Node.js backend and frontend UI, enabling seamless business logic updates. Developed
+                        a short URL service for delivering loan-related messages efficiently.</li>
                       <li>Developed dynamic and responsive web applications for various clients using a full-stack approach, with proficiency in both front-end and back-end technologies.</li>
                       <li>Demonstrated proficiency in front-end frameworks such as React.js and Redux to create engaging user experiences
                         and enhance client satisfaction.</li>
@@ -48,7 +49,7 @@ export const Experience = () => {
                       <li>Languages - HTML, CSS, JAVASCRIPT, REACTJS, REDUX, BOOTSTRAP, NODEJS, MySQL</li>
                     </ul>
                   </div>
-                  <div className="experience-item">
+                  {/* <div className="experience-item">
                     <h3> Full Stack Developer ( Contract ) </h3>
                     <h4> Roopya, kolkata,INDIA </h4>
                     <p> Duration: Dec 2024 - Mar 2025 </p>
@@ -62,7 +63,7 @@ export const Experience = () => {
                         a short URL service for delivering loan-related messages efficiently.</li>
                       <li>Languages - ReactJS, Redux, NodeJS, ExpressJS, Tailwind.css</li>
                     </ul>
-                  </div>
+                  </div> */}
                 </div>
               }
             </TrackVisibility>
