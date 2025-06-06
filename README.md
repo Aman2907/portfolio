@@ -28,4 +28,6 @@ Collaborate effectively in agile teams with clear communication and clean docume
 
 <br><br>
 
-🚀 I’m always open to collaboration, new challenges, and exciting opportunities!
+<p style="background-color:#f0f8ff; padding:10px; border-radius:8px; font-weight:bold;">
+🚀🤝🌍 I’m always open to <strong>collaboration</strong>, <strong>new challenges</strong>, and <strong>exciting opportunities</strong>! 💡✨📬
+</p>
