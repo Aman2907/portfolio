@@ -1,11 +1,11 @@
 👋 Hi, I'm **Aman Sharma!**
 
 
-**🚀 Full Stack Developer | Problem Solver | Lifelong Learner** <br><br>
+**🚀 Full Stack Developer | Problem Solver | Lifelong Learner** <br>
 I specialize in crafting scalable, high-performance web applications with clean and maintainable code. With 2+ years of experience as a FullStack/Frontend Developer, I love turning complex challenges into elegant solutions that deliver real value. 
+<br><br><br>
 
-
-🌟 What I Do
+**🌟 What I Do**<br>
 Build responsive and user-friendly interfaces with React, Vue, or Angular
 Develop robust backend APIs using Node.js, Express.js and optimize databases (SQL and NoSQL) for efficiency and scalability
 Automate workflows with Docker, CI/CD pipelines, and cloud platforms (AWS/GCP/Azure)
