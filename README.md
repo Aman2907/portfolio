@@ -18,7 +18,7 @@ Collaborate effectively in agile teams with clear communication and clean docume
 | HTML5, CSS3, SASS   | Express, Spring Boot  | AWS, Azure           | MongoDB, Redis    | Agile, TDD, Clean Code |
 <br><br>
 
-**📬 Let’s Connect**<br>
+**📬 Let’s Connect**<br><br>
 **📧 Email: amandeo2907@gmail.com**<br>
 **📱 Mobile: +91 7602603674**<br>
 
