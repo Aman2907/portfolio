@@ -25,7 +25,7 @@ Collaborate effectively in agile teams with clear communication and clean docume
 **🔗 LinkedIn**<br>
 **💻 GitHub**<br>
 **🌐 Portfolio**<br>
-
+🔗 LinkedIn
 <br><br>
 
 <p style="background-color:#f0f8ff; padding:10px; border-radius:8px; font-weight:bold;">
