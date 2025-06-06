@@ -22,9 +22,9 @@ Collaborate effectively in agile teams with clear communication and clean docume
 **📧 Email: amandeo2907@gmail.com**<br>
 **📱 Mobile: +91 7602603674**<br>
 
-**🔗 [LinkedIn](https://www.linkedin.com/in/amansharma2907/)**  
-**💻 [GitHub](https://github.com/Aman2907)**  
-**🌐 [Portfolio](https://portfolio-iota-smoky-83.vercel.app/)**
+**🔗 [LinkedIn](https://www.linkedin.com/in/amansharma2907/)**   **💻 [GitHub](https://github.com/Aman2907)**  **🌐 [Portfolio](https://portfolio-iota-smoky-83.vercel.app/)**
+ 
+
 
 
 <br><br>
