@@ -15,7 +15,7 @@ Collaborate effectively in agile teams with clear communication and clean docume
 | Frontend            | Backend               | DevOps & Tools       | Databases         | Other Skills           |
 | ------------------- | --------------------- | -------------------- | ----------------- | ---------------------- |
 | React, Vue          | Node.js, C++          | Docker, Git, Jenkins | MySQL, PostgreSQL | REST APIs, Testing     |
-| HTML5, CSS3, SASS   | Express, Spring Boot  | AWS, Azure           | MongoDB, Redis    | Agile, TDD, Clean Code |
+| HTML5, CSS3, SASS   | Express, Spring Boot  | AWS, Azure           | MongoDB           | Agile, TDD, Clean Code |
 <br><br>
 
 
