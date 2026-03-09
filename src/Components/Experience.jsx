@@ -27,7 +27,7 @@ export const Experience = () => {
                   <div className="experience-item">
                     <h3> Full Stack Developer </h3>
                     <h4> Freelance  </h4>
-                    <p> Duration: June 2023 - Dec 2025 </p>
+                    <p> Duration: June 2023 - Jan 2026 </p>
                     <p>
                       Worked on the design, development, and maintenance of web applications, focusing on building scalable solutions, optimizing performance, and collaborating with cross-functional teams to deliver high-quality software.
                     </p>
@@ -41,8 +41,9 @@ export const Experience = () => {
                         <li>Collaborated in cross-functional teams, ensuring seamless integration of front-end and back-end systems
                           for end-to-end product delivery</li>
                         <li> Built a custom short URL service to streamline loan-related communications</li>
-                        <li> Demonstrated proficiency in front-end frameworks such as React.js and Redux to create engaging interfaces
-                          and enhance client satisfaction.</li>
+                        <li>  Developed a custom short URL service to streamline loan-related communications, implementing backend
+APIs with Node.js/Express, database storage and a React based interface for efficient link generation , tracking
+using AI-assisted tools such as GitHub Copilot to accelerate development and debugging. </li>
 
                         <li>Languages - ReactJS, Redux, NodeJS, ExpressJS, Tailwind.css</li>
                       </ul>
