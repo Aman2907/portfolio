@@ -27,7 +27,7 @@ export const Experience = () => {
                   <div className="experience-item">
                     <h3> Full Stack Developer </h3>
                     <h4> Freelance  </h4>
-                    <p> Duration: June 2023 - Jan 2026 </p>
+                    <p> Duration: June 2023 - Feb 2026 </p>
                     <p>
                       Worked on the design, development, and maintenance of web applications, focusing on building scalable solutions, optimizing performance, and collaborating with cross-functional teams to deliver high-quality software.
                     </p>

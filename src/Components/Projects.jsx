@@ -4,49 +4,49 @@ import { ProjectCard } from './ProjectCard';
 import styles from './Projects.module.css';
 
 const projects = [
-  {
+ {
   title: "Food Delivery App",
   description:
     "A full-stack food ordering and delivery application built using the MERN stack. Features include dynamic menu listing, cart management, order placement, simulated real-time order tracking, REST API integration, responsive UI, and backend testing.",
   imgUrl:
     "https://images.unsplash.com/photo-1601972602288-3be527b4f18a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  Live: "https://raftlab.vercel.app/",
-  gitHubUrl: "https://github.com/Aman2907/raftlab",
+  githubUrl: "https://github.com/Aman2907/raftlab",
+  liveUrl: "https://raftlab.vercel.app/",
 },
   {
     title: "Blog Application",
     description: "A full-featured blog platform built with React and Node.js",
-    imgUrl: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&q=80&w=800",
+    imgUrl: "https://images.unsplash.com/photo-1638342863994-ae4eee256688?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     githubUrl: "https://github.com/Aman2907/Blog-Application",
   },
   {
     title: "Real-time Chatbox",
     description: "WebSocket-powered chat application with real-time messaging",
-    imgUrl: "https://images.unsplash.com/photo-1611746872915-64382b5c76da?auto=format&fit=crop&q=80&w=800",
+    imgUrl: "https://plus.unsplash.com/premium_photo-1682023585957-f191203ab239?q=80&w=484&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     githubUrl: "https://github.com/Aman2907/REALTIME-CHAT-APPLICATION",
   },
   {
     title: "Pizza Store",
     description: "E-commerce platform for a pizza delivery service",
-    imgUrl: "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&q=80&w=800",
+    imgUrl: "https://images.unsplash.com/photo-1753285632508-a457b897dd55?q=80&w=963&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     githubUrl: "https://github.com/Aman2907/PizzaApp-using-Reactjs",
   },
   {
     title: "File Upload System",
     description: "Secure file upload and management system",
-    imgUrl: "https://images.unsplash.com/photo-1618477388954-7852f32655ec?auto=format&fit=crop&q=80&w=800",
+    imgUrl: "https://plus.unsplash.com/premium_photo-1683732137653-9121ba5e8ede?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     githubUrl: "https://github.com/Aman2907/FileUploading-Application",
   },
   {
     title: "ecommerseShopify",
     description: "Collaborative task management application",
-    imgUrl: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=800",
+    imgUrl: "https://plus.unsplash.com/premium_photo-1664201890375-f8fa405cdb7d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     githubUrl: "https://github.com/Aman2907/ecommerseShopify",
   },
   {
     title: "Weather Dashboard",
     description: "Real-time weather monitoring dashboard",
-    imgUrl: "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&q=80&w=800",
+    imgUrl: "https://images.unsplash.com/photo-1561470508-fd4df1ed90b2?q=80&w=876&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     githubUrl: "https://github.com/Aman2907/weatherAPP-using-Reactjs",
   },
 ];
