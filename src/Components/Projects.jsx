@@ -5,6 +5,15 @@ import styles from './Projects.module.css';
 
 const projects = [
   {
+  title: "Food Delivery App",
+  description:
+    "A full-stack food ordering and delivery application built using the MERN stack. Features include dynamic menu listing, cart management, order placement, simulated real-time order tracking, REST API integration, responsive UI, and backend testing.",
+  imgUrl:
+    "https://images.unsplash.com/photo-1601972602288-3be527b4f18a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  Live: "https://raftlab.vercel.app/",
+  gitHubUrl: "https://github.com/Aman2907/raftlab",
+},
+  {
     title: "Blog Application",
     description: "A full-featured blog platform built with React and Node.js",
     imgUrl: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&q=80&w=800",
