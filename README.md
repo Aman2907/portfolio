@@ -12,6 +12,8 @@ Automate workflows with Docker, CI/CD pipelines, and cloud platforms (AWS/GCP/Az
 Collaborate effectively in agile teams with clear communication and clean documentation
 <br>
 
+
+
 | Frontend            | Backend               | DevOps & Tools       | Databases         | Other Skills           |
 | ------------------- | --------------------- | -------------------- | ----------------- | ---------------------- |
 | React, Vue          | Node.js, C++          | Docker, Git, Jenkins | MySQL, PostgreSQL | REST APIs, Testing     |
@@ -23,7 +25,7 @@ Collaborate effectively in agile teams with clear communication and clean docume
 **📧 Email: amandeo2907@gmail.com**<br>
 **📱 Mobile: +91-7602603674**<br>
 
-**🔗 [LinkedIn](https://www.linkedin.com/in/amansharma2907/)**   **💻 [GitHub](https://github.com/Aman2907)**  **🌐 [Portfolio](https://portfolio-iota-smoky-83.vercel.app/)**
+**🔗 [LinkedIn](https://www.linkedin.com/in/amansharma2907/)**    **💻 [GitHub](https://github.com/Aman2907)**  **🌐 [Portfolio](https://portfolio-iota-smoky-83.vercel.app/)**
  
 
 
