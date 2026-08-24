@@ -47,7 +47,7 @@ export const Experience = () => {
                   </div>
 
                   {/* Roopya */}
-                  <div className="experience-item">
+                  {/* <div className="experience-item">
                     <h3>Full Stack Developer (Contract)</h3>
                     <h4>Roopya, Kolkata, India</h4>
                     <p>
@@ -79,7 +79,7 @@ export const Experience = () => {
                         Express.js, Tailwind CSS
                       </li>
                     </ul>
-                  </div>
+                  </div> */}
 
                   {/* Freelance */}
                   <div className="experience-item">
@@ -89,28 +89,22 @@ export const Experience = () => {
                       <strong>Duration:</strong> Jun 2023 – Jun 2026
                     </p>
 
-                    <p>
-                      Designed and developed scalable web applications for
-                      clients, focusing on performance, maintainability, and
-                      end-to-end product delivery.
-                    </p>
 
                     <ul>
                       <li>
-                        Built dynamic web applications that improved client
-                        satisfaction and business workflows.
+                        Built scalable full-stack web applications for multiple clients using React.js, Node.js, Express.js, and MySQL.
                       </li>
                       <li>
-                        Optimized application performance, reducing page load
-                        times by up to 50%.
+                        Developed a FinTech loan application used by 50K+ users to collect and manage customer information, using
+                        React.js, Redux, API integrations, and responsive UI design
                       </li>
                       <li>
-                        Developed REST APIs using Node.js and Express.js with
-                        MongoDB integration.
+                        Developed AI-powered applications using RAG (Retrieval-Augmented Generation) to enable context-aware
+                        responses by retrieving relevant information from knowledge sources
                       </li>
                       <li>
-                        Built custom URL shortening services with analytics and
-                        tracking features.
+                        Resolved production issues, optimized application performance, and improved overall application efficiency and
+                        reliability
                       </li>
                       <li>
                         Collaborated with cross-functional teams to integrate
@@ -121,8 +115,7 @@ export const Experience = () => {
                         tools to accelerate implementation and debugging.
                       </li>
                       <li>
-                        <strong>Tech Stack:</strong> React.js, Redux, Node.js,
-                        Express.js, MongoDB, Tailwind CSS
+                        <strong>Tech Stack:</strong> React.js, Redux, JavaScript, Node.js, Express.js, MySQL, HTML, CSS, REST APIs, RAG
                       </li>
                     </ul>
                   </div>
